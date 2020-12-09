@@ -1,5 +1,5 @@
 # Learning-
-- [ ] What are data types
+- [x] What are data types
 - [ ] Difference between == and ===
 - [ ] What is Implicit type coercion in JavaScript
 - [ ] Difference between passed by reference and passed by value
