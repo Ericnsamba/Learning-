@@ -1,8 +1,8 @@
 # Learning-
 - [x] What are data types
-- [ ] Difference between == and ===
-- [ ] What is Implicit type coercion in JavaScript
-- [ ] Difference between passed by reference and passed by value
+- [] Difference between == and ===
+- [] What is Implicit type coercion in JavaScript
+- [] Difference between passed by reference and passed by value
 - [ ] What is NaN (and what is its type)
 - [ ] What is an immediately invoked function
 - [ ] Difference between dynamically typed and statically typed language
